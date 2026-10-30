@@ -1,19 +1,19 @@
-# Calorie & Macro Tracker
+# Calorie Tracker
 
-## Project Overview
-A Java-based command-line application designed to track daily meals, calculate total macro intake (calories, protein, carbs, fats) against target goals, and save entry logs locally.
+## Overview
+A simple Java command-line program to track daily meals, calculate total macros like calories, protein, carbs, and fats against daily goals, and save everything locally.
 
-## Features & Scope
-- **CLI Navigation:** Interactive menu to log meals and view daily progress.
-- **Data Persistence:** Automatically saves and loads daily logs from a local CSV file (`nutrition_log.csv`).
-- **Macro Calculation:** Summarizes total daily intake and displays progress toward target goals.
+## Features
+- Interactive menu to log meals and check progress
+- Automatically saves and reads logs from a local CSV file
+- Calculates total daily intake compared to your target goals
 
 ## Tech Stack
-- **Language:** Java
-- **Storage:** Local CSV File
-- **Tools:** VS Code, Git, GitHub, Unix Terminal
+- Java
+- CSV file storage
+- VS Code, Git, and terminal
 
-## Project Setup
-1. Clone the repository:
+## Setup
+1. Clone the repo:
    ```bash
    git clone [https://github.com/shritanmantha/calorie-tracker.git](https://github.com/shritanmantha/calorie-tracker.git)
