@@ -26,8 +26,9 @@ Tracking daily calorie and macronutrient intake often requires bloated mobile ap
    ```bash
    git clone [https://github.com/shritanmantha/calorie-tracker.git](https://github.com/shritanmantha/calorie-tracker.git)
    cd calorie-tracker
+   ```
 
-   ## Roadmap
+## Roadmap
 
 - [x] Core Java CLI menu loop and `Scanner` input handling
 - [x] `FoodItem` model class and daily calorie/macro aggregation
@@ -38,4 +39,4 @@ Tracking daily calorie and macronutrient intake often requires bloated mobile ap
 
 ## Demo Video
 
-- [Video Walkthrough](ADD_YOUR_VIDEO_LINK_HERE)
+- [Video Walkthrough](https://www.youtube.com/watch?v=E-hzqOGwBlk)
